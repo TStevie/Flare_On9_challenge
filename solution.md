@@ -1,4 +1,5 @@
 # Line 109
+
 if (guessString === rightGuessString) {
 		let flag = rightGuessString + '@flare-on.com';
 		toastr.options.timeOut = 0;
